@@ -12,7 +12,7 @@
          stopOnFailure="false">
 
     <testsuites>
-        <testsuite name="<PACKAGE-NAME>">
+        <testsuite name="Jaxer">
             <directory>tests</directory>
         </testsuite>
     </testsuites>

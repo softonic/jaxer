@@ -1,12 +1,12 @@
 {
-  "name": "softonic/<PACKAGE-ID>",
+  "name": "softonic/jaxer",
   "type": "library",
-  "description" : "<DESCRIPTION>",
+  "description" : "PHP Engine Rule to rule them all",
   "keywords": [],
   "license": "Apache-2.0",
-  "homepage": "https://github.com/softonic/<PACKAGE-ID>",
+  "homepage": "https://github.com/softonic/jaxer",
   "support": {
-    "issues": "https://github.com/softonic/<PACKAGE-ID>/issues"
+    "issues": "https://github.com/softonic/jaxer/issues"
   },
   "require": {
     "php": ">=8.0"
@@ -20,12 +20,12 @@
   },
   "autoload": {
     "psr-4": {
-      "Softonic\\<NAMESPACE>\\": "src/"
+      "Softonic\\Jaxer\\": "src/"
     }
   },
   "autoload-dev": {
     "psr-4": {
-      "Softonic\\<NAMESPACE>\\": "tests/"
+      "Softonic\\Jaxer\\": "tests/"
     }
   },
   "scripts": {
