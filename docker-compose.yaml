@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  composer:
+    volumes:
+    - ./:/app
+    image: softonic/composer-rector:latest
