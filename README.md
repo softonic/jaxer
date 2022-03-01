@@ -8,7 +8,7 @@ Jaxer
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/softonic/jaxer.svg?style=flat-square)](http://isitmaintained.com/project/softonic/jaxer "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/softonic/jaxer.svg?style=flat-square)](http://isitmaintained.com/project/softonic/jaxer "Percentage of issues still open")
 
-PHP Engine Rule to rule them all
+One rule engine to rule them all
 
 Main features
 -------------
