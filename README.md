@@ -3,7 +3,7 @@ Jaxer
 
 [![Latest Version](https://img.shields.io/github/release/softonic/jaxer.svg?style=flat-square)](https://github.com/softonic/jaxer/releases)
 [![Software License](https://img.shields.io/badge/license-Apache%202.0-blue.svg?style=flat-square)](LICENSE.md)
-[![Build Status](https://img.shields.io/travis/softonic/jaxer/master.svg?style=flat-square)](https://travis-ci.org/softonic/gjaxer)
+[![Build Status](https://github.com/softonic/jaxer/actions/workflows/php.yml/badge.svg)](https://github.com/softonic/jaxer/actions/workflows/php.yml)
 [![Total Downloads](https://img.shields.io/packagist/dt/softonic/jaxer.svg?style=flat-square)](https://packagist.org/packages/softonic/jaxer)
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/softonic/jaxer.svg?style=flat-square)](http://isitmaintained.com/project/softonic/jaxer "Average time to resolve an issue")
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/softonic/jaxer.svg?style=flat-square)](http://isitmaintained.com/project/softonic/jaxer "Percentage of issues still open")
