@@ -10,7 +10,7 @@ Jaxer
 
 **One rule engine to rule them all**
 
-Jaxer allows you to evaluate complex rules in an easy way and know the reason behind the validation result.
+**Jaxer** allows you to evaluate complex rules in an easy way and know the reason behind the validation result.
 
 Main features
 -------------
